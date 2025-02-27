@@ -10,22 +10,22 @@
   }
  .head {
     color: rgb(29, 2, 53);
-   background-color: aqua;
+   background-color: #B9B28A;
   }
   .qnc{
-    background-color: rgb(193, 74, 74);
+    background-color:#B9B28A;
   }
   .container{
     text-align: center;
       padding: 20px 140px;
       margin: 20px 0px;
-      background-color: #ffffff;
+      background-color: #F8F3D9;
       border-radius: 10px;
   
   }
   
   .cm{
-    background-color: darkorange;
+    background-color: #B9B28A;
   }
   #about img {
     max-width: 150px;
@@ -36,14 +36,14 @@
 }
   h1 {
     text-align:center;
-    background-color: rgb(221, 232, 24);
+    background-color: #B9B28A;
     padding: 20px;
      
   }
    h2{
     padding: 15px;
       margin: 20px;
-      background-color: #c7a7ac;
+      background-color: #B9B28A;
       text-align: center;
   }
 
